@@ -4,5 +4,6 @@
     "alt-right": "atomiix:evaluate",
     "alt-up": "atomiix:evaluate",
     "alt-left": "atomiix:freeAgent"
+    "cmd-period: "atomiix:cmdPeriod"
   }
 }
